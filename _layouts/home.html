@@ -2,6 +2,7 @@
 
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet"
         href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
   <style>
@@ -11,20 +12,51 @@
       font-family: 'EB Garamond', serif;
     }
 
+    /* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+    @media screen and (min-width: 601px) {
+      h1 {
+        font-size: 2.8vw;
+      }
+      h2 {
+        font-size: 2.3vw;
+      }
+      p {
+        font-size: 1.5vw;
+      }
+      img {
+        width: 500px;
+      }
+    }
+
+    /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+    @media screen and (max-width: 600px) {
+      h1 {
+        font-size: 8vw;
+      }
+
+      h2 {
+        font-size: 6vw;
+      }
+      p {
+        font-size: 5vw;
+      }
+      img {
+        width: 300px;
+      }
+    }
+
     h1, h2 {
       text-align: center;
     }
 
     p {
       font-family: 'EB Garamond', serif;
-      font-size: 18pt;
     }
 
     img {
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 500px;
       margin-top: 50px;
       margin-bottom: 50px;
     }
