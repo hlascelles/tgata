@@ -6,4 +6,4 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.thegeneralandtheactress.com" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 
-#google_analytics: UA-141179634-1
+google_analytics: UA-141179634-1

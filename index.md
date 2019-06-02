@@ -13,12 +13,12 @@ layout: home
 
 The Lascelles became one of the wealthiest families in 18th century England through trading in sugar
 and slavery in the West Indies.  They used their riches to scale the ranks of Georgian society, in
-the Army and politics and ultimately into the peerage.   Today, Harewood House in Yorkshire stands
+the Army and politics and ultimately into the peerage.  Today, Harewood House in Yorkshire stands
 as a monument to their success.
 
 The General and the Actress is a richly illustrated history of their rise, told through the
 remarkable story of one of the Lascelles sons, Francis, an Army General who formed a lasting
-relationship with Ann Catley, the top opera singer of the day.   Their liaison should have been
+relationship with Ann Catley, the top opera singer of the day.  Their liaison should have been
 scandalous, except that the Georgians - behind all their manners and finery - loved celebrity
 affairs.  Francis and Ann lived together for 20 years and had ten children.  Ann topped the bill
 at Covent Garden and Drury Lane, Francis became a Groom of the King’s Bedchamber and looked after
