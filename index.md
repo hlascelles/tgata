@@ -37,4 +37,4 @@ Published in June 2019 by Highgate Books.  94pp.
 
 ISBN 978-1-5272-2227-4
 
-For more information contact <a href="mailto: info@davidlascelles.com">info@davidlascelles.com</a>
+For more information contact <a href="mailto: book@davidlascelles.com">book@davidlascelles.com</a>
