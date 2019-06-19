@@ -1,5 +1,6 @@
 ---
 layout: home
+description: The General and the Actress. The lives and love of Francis Lascelles and Ann Catley.
 ---
 
 <h1 style="margin-top: 25px">THE GENERAL AND THE ACTRESS</h1>
