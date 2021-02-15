@@ -1,0 +1,7 @@
+version: 2
+updates:
+- package-ecosystem: "bundler"
+  directory: "/"
+  target_branch: "gh-pages"
+  schedule:
+    interval: "daily"
