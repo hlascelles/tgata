@@ -1,7 +1,7 @@
 version: 2
 updates:
-- package-ecosystem: "bundler"
+- package-ecosystem: bundler
   directory: "/"
-  target_branch: "gh-pages"
   schedule:
-    interval: "daily"
+    interval: monthly
+  open-pull-requests-limit: 10
