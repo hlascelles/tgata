@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 description: The General and the Actress. The lives and love of Francis Lascelles and Ann Catley.
 ---
 
@@ -31,7 +31,7 @@ ugliness on a scale that takes our breath away today.
 ![image](/img/inside.jpg "Inside")
 
 ## About the author
-David Lascelles is the great grandson five times over of Francis Lascelles.  He is an author and
+David Lascelles is the great-grandson five times over of Francis Lascelles.  He is an author and
 journalist, and lives in North London.
 
 Published in June 2019 by Highgate Books.  94pp.

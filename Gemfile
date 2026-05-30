@@ -1,6 +1,12 @@
 source "https://rubygems.org"
 
-# This is the only gem you can use when running on Github pages. Anything else will cause a build failure.
+gem "jekyll", "~> 4.3"
+
 group :jekyll_plugins do
-  gem "github-pages"
+  gem "jekyll-sitemap"
+  gem "jekyll-seo-tag"
+  gem "jekyll-feed"
 end
+
+# Required for Jekyll 4 on Ruby 3+
+gem "webrick", "~> 1.8"
